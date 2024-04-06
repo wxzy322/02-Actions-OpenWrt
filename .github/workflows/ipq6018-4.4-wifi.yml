@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder
+name: ipq6018-4.4-wifi
 
 on:
   repository_dispatch:
